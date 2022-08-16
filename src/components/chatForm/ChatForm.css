@@ -1,0 +1,14 @@
+.send-message {
+    display: block;
+    width: 100vh;
+    position: fixed;
+    bottom: 0;
+}
+
+.send-message input {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    margin: 10px;
+    padding: 10px 20px;
+}

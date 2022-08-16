@@ -1,0 +1,28 @@
+nav {
+    padding: 15px;
+    background-color: rgb(227, 227, 227);
+}
+
+nav img {
+    width: 60px;
+    padding-bottom: 10px;
+}
+
+nav form input {
+    padding: 10px 10px 10px 30px;
+    width: 80%;
+
+    border: 1px solid #333;
+    border-radius: 20px;
+
+    position: relative;
+    z-index: 1;
+}
+
+nav form img {
+    width: 15px;
+    margin: 10px;
+
+    position: absolute;
+    z-index: 2;
+}

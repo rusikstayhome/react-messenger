@@ -1,0 +1,51 @@
+h2 {
+    margin-bottom: 25px;
+
+    padding-left: 10px;
+    color: rgb(24, 126, 185);
+    font-weight: 400;
+}
+
+ul {
+    margin: 0;
+    padding: 0px;
+
+    list-style-type: none;
+}
+
+ul img {
+    display: block;
+
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50%;
+}
+
+ul li {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 20px 10px 20px 5px;
+    border-bottom: 1px solid black;
+}
+
+.contact-info {
+    display: flex;
+    padding-left: 10px;
+}
+
+.contact-info div {
+    margin-left: 10px;
+}
+
+ul div h3 {
+    margin: 0;
+
+    font-weight: 500;
+}
+
+ul div p {
+    margin: 0;
+    opacity: 0.8;
+}
