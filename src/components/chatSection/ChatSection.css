@@ -22,6 +22,10 @@ header h1 {
     font-weight: 500;
 }
 
+.wrapper {
+    min-height: calc(100vh - 150px);
+}
+
 main .chat-response {
     display: flex;
 
